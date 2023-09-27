@@ -1,0 +1,235 @@
+#img{
+    width:80px;
+}
+#ofisi{
+    margin-bottom: 25px;
+}
+#head{
+    font-size: small;
+}
+#inner{
+    text-align: center;
+}
+body{
+    overflow-x: hidden;
+}
+hr{
+    font-weight: lighter;
+}
+#icon2,#icon3,#icon4{
+    width:30px;
+    padding-bottom: 25px;
+}
+#side{
+    padding:5px;
+    width: fit-content;
+    background-color:rgba(223, 223, 225,.5);
+    height: fit-content;
+    text-align: center;
+}
+#icon1{
+width:25px;
+padding-bottom:25px ;
+}
+#icon5{
+    width:30px;
+    }
+body{
+    background-color: whitesmoke;
+}
+#content{
+    width:100%;
+    margin-left: 5px;
+    font-family: serif;
+    background-color:rgba(223, 223, 225,.5); 
+    height:30em;
+}
+#ovar{
+    display:flex;
+}
+#footer{
+    background-color:rgba(223, 223, 225,.5);
+    width:100%;
+    height:15em;
+    margin-top: 10px;
+    display: flex;
+}
+#service{
+    width:80px;
+}
+#service2{
+    width:80px;
+}
+#service3{
+    width:80px;
+}
+#footer1{
+    background-color:rgba(223, 223, 225,.5);
+    width: 135px;
+    color:gray;
+    margin-top: 10px;
+    font-family: courier;
+    padding: 15px;
+    text-align: center;
+    margin-left: 8em;
+    border-radius: 0.4em;
+    font-weight: bolder;
+    margin-right: 100px;
+    height: 120px;
+}
+#footer2{
+    background-color:rgba(223, 223, 225,.5);
+    width: 135px;
+    color: gray;
+    font-family: courier;
+    padding: 15px;
+    text-align: center;
+    border-radius: 0.4em;
+    font-weight: bolder;
+    margin-right: 100px;
+    height: 120px;
+    margin-top: 10px;
+}
+#footer3{
+    background-color:rgba(223, 223, 225,.5);
+    width: 135px;
+    color: gray;
+    font-family: courier;
+    padding: 15px;
+    text-align: center;
+    border-radius: 0.4em;
+    font-weight: bolder;
+    margin-top: px;
+    height: 130px;
+    margin-top:10px;
+    margin-right: 100px;
+}
+#teacher{
+    width: 60px;
+}
+#footer4{
+    background-color:rgba(223, 223, 225,.5);
+    width: max-content;
+    color: gray;
+    font-family: courier;
+    padding: 15px;
+    text-align: center;
+    border-radius: 0.4em;
+    font-weight: bolder;
+    margin-top: px;
+    height: 130px;
+    margin-top:10px;
+    font-size:small;
+}
+#footer5{
+    text-align: center;
+    background-color: #0c356A;
+    width: 100%;
+    height: max-content;
+    padding: 10px;
+    color: white;
+    font-size: small;
+}
+#password1{
+    width:300px;
+    height:25px;
+    margin-bottom: 20px;
+}
+#password2{
+    width:300px;
+    height:25px;
+}
+#pass2{
+    width: max-content;
+    padding: 10px;
+    font-family: courier;
+    margin-left:30em;
+}
+#button{
+    font-family: sans-serif;
+    font-weight: lighter;
+    background-color:#0c356A ;
+    border-radius:0.3em;
+    color: white;
+    border:none;
+    padding:10px;
+    cursor:pointer;
+}
+#pass1{
+    display:flex;
+}
+#candidate{
+width: 25em;
+height: 2em;
+margin-bottom:10px;
+}
+#number{
+    width: 25em;
+    height: 2em;
+    margin-bottom:10px;
+}
+#mail{
+    width: 25em;
+    height: 2em;
+    margin-bottom: 10px;
+}
+#set{
+    padding: 10px;
+    margin-left: 35em;
+    margin-top: 5em;
+}
+#next1{
+    background-color: #0c356A;
+    color: white;
+    font-family:courier;
+    padding: 10px;
+    border-radius: 0.4em;
+    border:none ;
+}
+#search{
+    width:300px;
+    height:30px;
+    border-radius: 0.2em;
+    font-size: medium;
+}
+#submit1{
+    padding: 5px;
+    width: max-content;
+    font-weight: bolder;
+    border-radius: 0.2em;
+}
+#admin{
+    margin-left: 400px;
+}
+#wahuni{
+    display:flex;
+    flex-direction: row;
+    margin-top: 80px;
+}
+#admin1{
+    font-family: serif;
+    background-color: rgb(35, 35, 39);
+    color:white;
+    padding:20px;
+    margin-right:10px;
+    margin-left: 200px;
+    border-radius: 0.4em;
+    margin-bottom: 50px;
+}
+#admin2{
+    font-family: serif;
+    background-color: rgb(35, 35, 39);
+    color:white;
+    padding:20px;
+    margin-right: 10px;
+    border-radius: 0.4em;
+    margin-bottom: 50px;
+}
+#admin3{
+    font-family: serif;
+    background-color: rgb(35, 35, 39);
+    color:white;
+    padding:20px;
+    border-radius: 0.4em;
+    margin-bottom: 50px;
+}
